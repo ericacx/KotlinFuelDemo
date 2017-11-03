@@ -1,5 +1,15 @@
 ### 说明
+- 练习kotlin
 
+- 使用kotlin网络框架Fuel
+
+    - HttpGet,Response
+    - Gson
+    - Bean
+
+- 借助聚合数据免费图书电商数据接口为网络数据源
+
+- 简单栗子，一个RecyclerView列表
 
 
 
